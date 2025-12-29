@@ -1,6 +1,4 @@
-# DATS_6303
-
-# Final Project - Group 6
+# Bird-Sound-Classification-Using-MEL-Spectrograms
 
 This project focuses on training a deep learning model using mel spectrogram images to classify audio data. The dataset used consists of precomputed mel spectrogram images, and the training pipeline is implemented in Python using popular deep learning libraries.
 

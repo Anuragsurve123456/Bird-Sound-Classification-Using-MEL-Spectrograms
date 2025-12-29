@@ -16,7 +16,7 @@ Deep learning pipeline for **BirdCLEF 2025** style bird-call classification usin
 - Wilona Nguyen  
 - Wali Siddiqui  
 - Anurag Surve  
-**Supervised by:** Amir Jafari :contentReference[oaicite:1]{index=1}
+**Supervised by:** Amir Jafari 
 
 ---
 
